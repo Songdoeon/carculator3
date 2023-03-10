@@ -20,7 +20,7 @@ public class Carculator{
     }
     public int add(int a, int b){
         //add
-        return 0;
+        return a + b;
     }
     public int sub(int a, int b){
         //sub

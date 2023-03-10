@@ -17,6 +17,7 @@ public class Carculator{
         b = sc.nextInt();
 
         System.out.println("출력 해라 빨리: ");
+
     }
     public int add(int a, int b){
         //add

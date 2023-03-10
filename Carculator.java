@@ -16,7 +16,7 @@ public class Carculator{
         System.out.println("숫자를 입력해주세요");
         b = sc.nextInt();
 
-        System.out.println("출력 : ");
+        System.out.println("출력 해라 : ");
     }
     public int add(int a, int b){
         //add

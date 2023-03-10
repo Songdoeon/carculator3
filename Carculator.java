@@ -16,7 +16,7 @@ public class Carculator{
         System.out.println("숫자를 입력해주세요");
         b = sc.nextInt();
         
-        System.out.println("출력 : ");
+        System.out.println("출력 : "); 
     }
     public int add(int a, int b){
         //add
@@ -28,7 +28,7 @@ public class Carculator{
     }
     public int multi(int a, int b){
         //multi
-        return 0;
+        return a * b;
     }
     public int div(int a, int b){
         //div

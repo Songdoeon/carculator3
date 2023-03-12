@@ -15,23 +15,24 @@ public class Carculator{
         operator = sc.next();
         System.out.println("숫자를 입력해주세요");
         b = sc.nextInt();
-        
-        System.out.println("출력 : ");
+
+        System.out.println("출력 해라 빨리: ");
+
     }
     public int add(int a, int b){
         //add
-        return 0;
+        return a + b;
     }
     public int sub(int a, int b){
-        //sub
-        return 0;
+
+        return a-b;
     }
     public int multi(int a, int b){
         //multi
-        return 0;
+        return a * b;
     }
     public int div(int a, int b){
         //div
-        return 0;
+        return a / b;
     }
 }
